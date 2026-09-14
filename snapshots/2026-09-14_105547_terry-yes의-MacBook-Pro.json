@@ -1,0 +1,161 @@
+{
+  "defaults" : {
+    "unmappedKeyPolicy" : "swallow",
+    "whenAlreadyActive" : "hide"
+  },
+  "layers" : {
+    "capsLock" : {
+      "2" : {
+        "bundleIdentifier" : "com.apple.ScreenContinuity",
+        "displayName" : "iPhone Mirroring",
+        "type" : "application"
+      },
+      "3" : {
+        "bundleIdentifier" : "com.apple.Notes",
+        "displayName" : "Notes",
+        "type" : "application"
+      },
+      "4" : {
+        "bundleIdentifier" : "com.apple.iphonesimulator",
+        "displayName" : "Simulator",
+        "type" : "application"
+      },
+      "5" : {
+        "bundleIdentifier" : "com.apple.dt.Xcode",
+        "displayName" : "Xcode",
+        "type" : "application"
+      },
+      "6" : {
+        "bundleIdentifier" : "com.iconfactory.Tot",
+        "displayName" : "Tot",
+        "type" : "application"
+      },
+      "a" : {
+        "bundleIdentifier" : "dev.terryyes.KeyLayer",
+        "bundleURLPath" : "/Users/terry.yes/Developer/KeyLayer/build/Build/Products/Debug/KeyLayer.app",
+        "displayName" : "KeyLayer",
+        "type" : "application"
+      },
+      "c" : {
+        "bundleIdentifier" : "com.google.Chrome",
+        "displayName" : "Google Chrome",
+        "type" : "application"
+      },
+      "d" : {
+        "bundleIdentifier" : "md.obsidian",
+        "displayName" : "Obsidian",
+        "type" : "application"
+      },
+      "g" : {
+        "bundleIdentifier" : "com.figma.Desktop",
+        "displayName" : "Figma",
+        "type" : "application"
+      },
+      "i" : {
+        "bundleIdentifier" : "com.googlecode.iterm2",
+        "displayName" : "iTerm",
+        "type" : "application"
+      },
+      "k" : {
+        "bundleIdentifier" : "com.DanPristupov.Fork",
+        "displayName" : "Fork",
+        "type" : "application"
+      },
+      "l" : {
+        "bundleIdentifier" : "com.tinyspeck.slackmacgap",
+        "displayName" : "Slack",
+        "type" : "application"
+      },
+      "left" : {
+        "command" : "previous",
+        "target" : "system",
+        "type" : "media"
+      },
+      "m" : {
+        "bundleIdentifier" : "com.apple.iCal",
+        "displayName" : "Calendar",
+        "type" : "application"
+      },
+      "n" : {
+        "bundleIdentifier" : "notion.id",
+        "displayName" : "Notion",
+        "type" : "application"
+      },
+      "o" : {
+        "bundleIdentifier" : "com.dktechin.kakaowork.electron.inhouse",
+        "displayName" : "Kakao Work 2.0 Inhouse",
+        "type" : "application"
+      },
+      "p" : {
+        "bundleIdentifier" : "com.spotify.client",
+        "displayName" : "Spotify",
+        "type" : "application"
+      },
+      "q" : {
+        "bundleIdentifier" : "com.apple.finder",
+        "displayName" : "Finder",
+        "type" : "application"
+      },
+      "r" : {
+        "bundleIdentifier" : "dev.itaehyeok.PRMapApp",
+        "bundleURLPath" : "/Users/terry.yes/Applications/PRMap.app",
+        "displayName" : "PRMap",
+        "type" : "application"
+      },
+      "right" : {
+        "command" : "next",
+        "target" : "system",
+        "type" : "media"
+      },
+      "s" : {
+        "bundleIdentifier" : "com.apple.Safari",
+        "displayName" : "Safari",
+        "type" : "application"
+      },
+      "t" : {
+        "bundleIdentifier" : "ru.keepcoder.Telegram",
+        "displayName" : "Telegram",
+        "type" : "application"
+      },
+      "up" : {
+        "command" : "playPause",
+        "target" : "system",
+        "type" : "media"
+      },
+      "v" : {
+        "bundleIdentifier" : "sh.paseo.desktop",
+        "displayName" : "Paseo",
+        "type" : "application"
+      },
+      "w" : {
+        "bundleIdentifier" : "com.workflowy.desktop",
+        "displayName" : "WorkFlowy",
+        "type" : "application"
+      },
+      "y" : {
+        "bundleIdentifier" : "com.anthropic.claudefordesktop",
+        "displayName" : "Claude",
+        "type" : "application"
+      },
+      "z" : {
+        "key" : "z",
+        "modifiers" : [
+          "control",
+          "option",
+          "shift"
+        ],
+        "type" : "keyStroke"
+      }
+    },
+    "rightOption" : {
+
+    }
+  },
+  "modifiers" : {
+    "swapFnAndLeftControl" : true
+  },
+  "rightCommand" : {
+    "action" : "f18"
+  },
+  "version" : 1
+}
